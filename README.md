@@ -3,7 +3,7 @@
 Falls nötig...
 
 ```
-apt install docker docker-compose
+apt install docker.io docker-compose
 ```
 
 Dann
