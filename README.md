@@ -1,6 +1,6 @@
 # HowTo
 
-Als root
+*(Alle Anweisungen benötigen root-Rechte)*
 
 Falls nötig...
 
@@ -17,7 +17,7 @@ docker-compose up -d
 Zum Schluss
 
 ```
-sudo /bin/bash init.sb.sh
+/bin/bash init.sb.sh
 ```
 
 *UNBEDINGT:*
