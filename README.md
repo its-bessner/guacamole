@@ -1,5 +1,7 @@
 # HowTo
 
+Als root
+
 Falls nötig...
 
 ```
@@ -9,7 +11,7 @@ apt install docker.io docker-compose
 Dann
 
 ```
-sudo docker-compose guacamole
+docker-compose up -d
 ```
 
 Zum Schluss
