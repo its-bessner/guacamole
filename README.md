@@ -17,7 +17,7 @@ docker-compose up -d
 Zum Schluss
 
 ```
-/bin/bash init.sb.sh
+/bin/bash init.db.sh
 ```
 
 *UNBEDINGT:*
