@@ -1,2 +1,2 @@
 docker-compose up -d
-/bin/bash setup.db.sh
+/bin/bash init.db.sh
